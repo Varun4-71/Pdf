@@ -1,0 +1,6 @@
+{
+  "name": "PDF Toolkit Pro",
+  "description": "Ultra-modern offline PDF toolkit to merge, split, compress, edit metadata, convert to/from images, reorder pages, and add page numbers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
